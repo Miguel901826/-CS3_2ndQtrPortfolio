@@ -4,6 +4,7 @@ table, td, th{
 }
 
 table {
+    vorder: 1;
     background-color: bisque;
   }
 
@@ -18,3 +19,4 @@ h3 {
 body {
     background-color: beige;
 }
+
