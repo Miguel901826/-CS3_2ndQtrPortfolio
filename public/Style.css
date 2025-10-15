@@ -4,8 +4,6 @@ table, td, th{
 }
 
 table {
-    width: 30%;
-    height: 500px;
     background-color: bisque;
   }
 
